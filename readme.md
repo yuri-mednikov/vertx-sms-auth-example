@@ -1,6 +1,6 @@
 # Vertx-sms-auth-example
 
-This is an example application for my post [How I reinvented a bicycle: Building SMS auth in Vertx with Java](http://www.mednikov.net/case-studies/how-i-reinvented-a-wheel-building-sms-auth-in-vertx-with-java/?preview=true&_thumbnail_id=62), published in my blog. It illustrates the approach, described in the post. Consider it as a demo, it is not a production ready app :)
+This is an example application for my post [How I reinvented a wheel: Building SMS auth in Vertx with Java](http://www.mednikov.net/case-studies/how-i-reinvented-a-wheel-building-sms-auth-in-vertx-with-java/?preview=true&_thumbnail_id=62), published in my blog. It illustrates the approach, described in the post. Consider it as a demo, it is not a production ready app :)
 
 ## How to run this example
 
@@ -59,4 +59,4 @@ Now you can use your JWT token to access a protected route.
 This is code is delivered for you under terms of MIT license absolutely without any warranties or guaranties. Use it on your risk :)
 
 
-__Yuri Mednikov (yuri@mednikov.net)__
+__Yuri Mednikov__
